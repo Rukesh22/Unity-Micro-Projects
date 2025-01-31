@@ -6,6 +6,9 @@ DOTween Things
 Plugin Used:
 - DOTween: https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
 
+Install Custom Package:
+- Open package Manager -> click + then add this url : https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask
+
 Screenshots:
 
 ![Screenshot 2025-01-30 at 12 23 15 PM](https://github.com/user-attachments/assets/08b9a33e-b0e1-48e4-802f-a5a021b42966)
